@@ -1,4 +1,5 @@
 const navButtons = document.querySelectorAll('#navbar ul li');
+const navBar = document.querySelector('#navbar');
 
 function wrapper() {
   const loopThrough = () => {
