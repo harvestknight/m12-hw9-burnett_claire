@@ -16,7 +16,7 @@ function wrapper() {
         setTimeout(function(){ 
             changeColor(); 
             }, i * 1000); //utilize loop with i to stagger visual reaction
-            //toggle for each letter
+            //toggle for each letter with the *2 in the loop line
     }
 
   };

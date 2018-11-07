@@ -2,9 +2,9 @@
 
 
 ISSUES
--
+-No issues! Woo hoo!
 
 
 
 RESOURCES
--
+-Recorded lesson
