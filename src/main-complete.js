@@ -15,7 +15,7 @@ function wrapper() {
     for (let i = 0; i < thisButtonLength; i++) {
         setTimeout(function(){ 
             changeColor(); 
-            }, 3000);
+            }, i * 1000); //utilize loop with i to stagger visual reaction
     }
 
   };
